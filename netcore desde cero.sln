@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore desde cero", "netcore desde cero\netcore desde cero.csproj", "{166FDC1B-7E62-4037-9AAA-9AC50B8CC8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{253B6EFA-CE22-4D89-8D30-77FA0329B058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166FDC1B-7E62-4037-9AAA-9AC50B8CC8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166FDC1B-7E62-4037-9AAA-9AC50B8CC8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166FDC1B-7E62-4037-9AAA-9AC50B8CC8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166FDC1B-7E62-4037-9AAA-9AC50B8CC8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253B6EFA-CE22-4D89-8D30-77FA0329B058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253B6EFA-CE22-4D89-8D30-77FA0329B058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253B6EFA-CE22-4D89-8D30-77FA0329B058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253B6EFA-CE22-4D89-8D30-77FA0329B058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98EF54C7-699E-42B3-A3AE-91EF275B94F0}
+	EndGlobalSection
+EndGlobal
